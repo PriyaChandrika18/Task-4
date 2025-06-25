@@ -1,0 +1,26 @@
+Personal Portfolio Website This HTML document showcases my personal portfolio, including projects, skills, and experiences.
+
+Features:
+
+Tabbed Navigation: Switch between sections using the navigation bar.
+To-Do List App: Add, remove, and store tasks locally.
+Product Listing: Filter and sort products by category and rating.
+Responsive Design: Adaptively adjusts to different screen sizes.
+Sections:
+
+Portfolio: Showcase of my projects and experiences.
+To-Do: Simple to-do list app.
+Products: Listing of products with images, names, categories, and ratings.
+Getting Started:
+
+Open the HTML file in a web browser.
+Customization:
+
+Modify the predefined array of products in the JavaScript code.
+Add or remove sections as needed.
+Customize styles and layouts using CSS.
+Technologies Used:
+
+HTML5
+CSS3
+JavaScript
